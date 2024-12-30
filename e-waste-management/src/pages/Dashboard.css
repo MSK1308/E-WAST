@@ -1,0 +1,31 @@
+.dashboard {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .dashboard h2 {
+    color: #2c5f2d;
+    margin-bottom: 1rem;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  th, td {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #2c5f2d;
+    color: white;
+  }
+  
+  td {
+    background-color: #f5f5f5;
+  }
+  
